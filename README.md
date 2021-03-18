@@ -1,0 +1,2 @@
+# security
+springsecurity和swagger结合的springboot项目。security使用的动态的url判断，纯后端没有前端页面
